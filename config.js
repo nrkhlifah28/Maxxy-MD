@@ -6,20 +6,11 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6289618728196', '️PROJECTS', true],
 ]
 global.mods = []
 global.prems = []
-global.girlfren = []
+global.girlfren = [628997083784]
 
 /*Website*/
 global.APIs = {
@@ -89,15 +80,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.nomorbot = '62882001088717'
+global.nomorown = '6289618728196'
+global.namebot = 'NoerBoTZ-Mdོ'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯あ⁩ 」'
+global.wm = '                「 NoerBoTZ-Mdོあ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ NoerBoTZ-Mdོ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -439,9 +430,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ NoerBoTZ-Mdོ 乂 NOER 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩'
+global.author = 'NoerBoTZ-Mdོ 乂 NOER 🇮🇩'
 global.multiplier = 10
 
 /*Pesan*/
@@ -450,21 +441,21 @@ global.wait = '*ᴡᴀɪᴛ!*'
 global.render = '*ʀᴇɴᴅᴇʀ!*'
 global.webs = 'https://s.id/Cerdasin62'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
+global.gcwangsaf = 'https://chat.whatsapp.com/FM4JHZbUJZi0m786dBZrsr'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.saweria = 'https://saweria.co/Nrkhlifah'
+global.dana = '089618728196'
+global.pulsa = '089618728196'
 global.trakteer = ''
 global.paypal = ''
-global.gopay = ''
-global.pdana = '085380166282'
+global.gopay = '089618728196'
+global.pdana = '089618728196'
 global.povo = ''
 global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085380166282'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa = '0882001088717'
+global.ppulsa2 = '089618728196'
+global.psaweria = 'https://saweria.com/Nrkhlifah'
 
 /*Emoji*/
 global.rpg = {
