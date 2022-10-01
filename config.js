@@ -383,13 +383,13 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/maxxy_ofc'
-global.sgh = 'https://www.github.com/MaxxyBotz'
-global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
+global.sig = 'https://www.instagram.com/Nrkhlifah28'
+global.sgh = 'https://www.github.com/Nrkhlifah28'
+global.sgc = 'https://chat.whatsapp.com/FM4JHZbUJZi0m786dBZrsr'
 global.sdc = ''
-global.snh = 'https://www.tiktok.com/@maxxy_0t'
-global.sfb = 'https://www.facebook.com/kahfiofc'
-global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://www.tiktok.com/@buknarab'
+global.sfb = 'https://www.facebook.com/lpgkeselekiky'
+global.syt = 'https://www.tidakada.com'
 
 /*Nsfw*/
 global.optsnsfw = true
