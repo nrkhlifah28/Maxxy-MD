@@ -23,8 +23,8 @@ https://github.com/Ariffb25
 *Ilman:*
 https://github.com/ilmanhdyt
 
-*Amirul:*
-https://github.com/amiruldev20
+*Nrkhlifah:*
+https://github.com/Nrkhlifah28
 
 *Rasel:*
 https://github.com/raselcomel
